@@ -1,15 +1,5 @@
-> [!WARNING]
-> **Important Notice for Users**
->
-> - This tool is intended to run **locally on your own machine** only
-> - **Do NOT commit downloaded videos** or any media files to this repository or your fork
-> - **Do NOT use GitHub Actions** to download and store videos on GitHub's infrastructure
-> - All video formats (`.mp4`, `.webm`, `.mkv`, etc.) are blocked via `.gitignore`
->
-> Misuse of this repository by storing media files or running mass downloads via GitHub Actions violates [GitHub's Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) and may result in your account being suspended.
-
 <div align="center">
-   <img src="icon.gif" width="400" alt="wide-2" />
+   <img src="icon.gif" width="450" alt="wide-2" />
 </div>
 
 # 🪄 دانلودر یوتیوب ( نسخه ی ۲ )
@@ -27,6 +17,12 @@
 - ✅ قابلیت تنظیم کیفیت ویدیو دانلودی
 - ✅ امکان دانلود فقط صدا 
 - ✅ دارای ابزار مخصوص برای دانلود فایل های بزرگ
+
+# 🤖 ربات بله 
+در صورت اینکه به گیتهاب دسترسی نداشته باشید شما میتوانید از ربات پیام رسان بله برای دانلود ویدیوهای یوتیوب استفاده کنید توجه کنید که ربات بله و این ورک فلو دو پروژه کاملا جدا از هم هستند ولی در صورت قطعی گیتهاب ، پیام رسان بله همچنان در دسترس است برای استارت ربات بله به لینک زیر مراجعه کنید : 
+
+https://ble.ir/ourtubebot
+
 
 ## 🔑کد فعالسازی
 برای فعالسازی این پروژه شما نیاز به یک کد فعالسازی مخصوص این پروژه دارید. بعد از یکبار وارد کردن کد و فعال شدن بصورت دائمی فعال میشود. کد را از لینک زیر تهیه کنید:
@@ -103,3 +99,15 @@ https://pay.avasam.ir/link/769604
 - وب سایت : avasam.ir 
 
 
+
+
+
+> [!WARNING]
+> **Important Notice for Users**
+>
+> - This tool is intended to run **locally on your own machine** only
+> - **Do NOT commit downloaded videos** or any media files to this repository or your fork
+> - **Do NOT use GitHub Actions** to download and store videos on GitHub's infrastructure
+> - All video formats (`.mp4`, `.webm`, `.mkv`, etc.) are blocked via `.gitignore`
+>
+> Misuse of this repository by storing media files or running mass downloads via GitHub Actions violates [GitHub's Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) and may result in your account being suspended.
